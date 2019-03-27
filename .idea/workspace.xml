@@ -2,237 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e1311e-13bd-4fc7-beb1-1272468dd19e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/CSS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498032122244.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498441839910.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498443611073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498443651293.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498443715586.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498443827389.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498443912530.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498444645795.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498445034712.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498445454760.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498445587576.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498445756802.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498446043198.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498446715314.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498459001951.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498459697576.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498459770252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498459804304.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498461096243.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498465020015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498465862231.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498465905203.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498465928343.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498465944087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498466173246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498466655510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498466734205.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498467502625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498467519665.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498467533412.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498467567011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498467742995.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498468026526.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498468041058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498468052965.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498468072194.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498468086199.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1498468097509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1513132290173.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/163.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/1633.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/Cc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ab1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ab2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/al.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ax.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ax.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/baby.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/baocun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/base.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/bb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/bd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/bianhuan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/bike.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/bing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/box.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/box.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/boxs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/bz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/car.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/chengshi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/chrome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/cixing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/count.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/db.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/dd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/di.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/dis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/dog.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/dt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/embed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/father.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/fff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/font.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/font1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/font2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/fontt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/fontt1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/fontt2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/fontt5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/fu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/g.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/go.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/gongjuxiang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/good.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/gu.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/guai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/guding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/gx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/gz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/h.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/h.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hai.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hb1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hb2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hebing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hou.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hover.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/html.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/hu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/huabu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/input.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/j.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/jd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/jds.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/jiao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/jiemian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/jiu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/kc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/kuihua.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/l.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/lei.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/lh.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/li.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/line1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/line2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/lj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ll.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/lyc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/m.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/mess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/mi.fw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/mi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/midi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/miqi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/mix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/no.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/node.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/one.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/pa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/people.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/pig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/qb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/r.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/rh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/s.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sample1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/san.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/san.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/shiboguan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ship.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/shs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/shu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sina1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/smail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/sun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/t.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/t1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/tab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/textarea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/th.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/thead.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/tl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/tt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ttt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/tuceng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/tuniu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/two.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/two.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ul.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/ver.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/wei.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/wf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/wk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/wq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/www.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/wxx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/xia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/xian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/xiong.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/xiong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/xtf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/yanse1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/yanse2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/yiqi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/yl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/you.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/yunzhou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/z.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zfb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zhen.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zi1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zifu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/笔记/media/zzz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_study/demo/02_盒子模型练习1.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_study/demo/02_盒子模型练习1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -253,22 +24,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="5" />
+          <entry key="css" value="1" />
+          <entry key="html" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1060" />
+          <entry key="css" value="2005" />
+          <entry key="html" value="1721" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1060" />
+          <entry key="CSS" value="2005" />
+          <entry key="HTML" value="1721" />
         </counts>
       </usages-collector>
     </session>
@@ -276,19 +51,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css_study/demo/02_盒子模型练习1.html">
+        <entry file="file://$PROJECT_DIR$/css_study/01云道页面/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="-489">
+              <caret line="114" column="25" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+              <folding>
+                <element signature="e#2655#2659#1" expanded="true" />
+                <element signature="e#2702#2706#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css_study/demo/03_表格边框.html">
+        <entry file="file://$PROJECT_DIR$/css_study/01云道页面/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="298">
+              <caret line="271" column="13" selection-start-line="271" selection-start-column="13" selection-end-line="271" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -299,6 +78,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -313,6 +93,8 @@
         <option value="$PROJECT_DIR$/css_study/demo/01_文字修饰.html" />
         <option value="$PROJECT_DIR$/css_study/demo/03_表格边框.html" />
         <option value="$PROJECT_DIR$/css_study/demo/02_盒子模型练习1.html" />
+        <option value="$PROJECT_DIR$/css_study/01云道页面/css/index.css" />
+        <option value="$PROJECT_DIR$/css_study/01云道页面/index.html" />
       </list>
     </option>
   </component>
@@ -350,7 +132,7 @@
               <item name="frontendstudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="frontendstudy" type="462c0819:PsiDirectoryNode" />
               <item name="css_study" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="01云道页面" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,6 +145,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -393,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553178469617</updated>
-      <workItem from="1553178473748" duration="11457000" />
+      <workItem from="1553178473748" duration="34181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11457000" />
+    <option name="totallyTimeSpent" value="34181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
@@ -454,14 +237,32 @@
     <entry file="file://$PROJECT_DIR$/css_study/demo/03_表格边框.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="21" />
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_study/01云道页面/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="271" column="13" selection-start-line="271" selection-start-column="13" selection-end-line="271" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_study/demo/02_盒子模型练习1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="479">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_study/01云道页面/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="114" column="25" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+          <folding>
+            <element signature="e#2655#2659#1" expanded="true" />
+            <element signature="e#2702#2706#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,316 @@
+/*reset*/
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #fafafa;
+    height: 3000px;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.clearfix:after {
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.clearfix {
+    *zoom: 1;
+}
+/*版心*/
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/*顶部*/
+.header {
+    height: 100px;
+}
+
+.nav li {
+    float: left;
+}
+.nav li a {
+    display: block;
+    height: 100px;
+    line-height: 100px;
+    padding: 0 20px;
+    color: #333;
+}
+.nav li a:hover {
+    color: #2288f6;
+}
+/*banner*/
+.banner {
+    height: 620px;
+    background: url(../images/banner.png) no-repeat top center;
+}
+
+/*service*/
+.service {
+    width: 1055px;
+    margin: 75px auto 0;
+    /*overflow: hidden; !*清除浮动用的*!*/
+}
+.service .title {
+    margin: 0 25px;  /*这里title没给宽度，给了左右的margin之后，内容就向中间挤*/
+    border-top: 1px solid #ccc;
+}
+.service .title .top {
+    width: 168px;
+    height: 46px;
+    margin: -25px auto 0;
+    overflow: hidden;
+}
+.service .title h3 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.service .title h4 {
+    text-align: center;
+    font-size: 10px;
+    font-weight: 400;
+    color: #ccc;
+}
+.service .title p {
+    width: 846px;
+    margin: 16px auto 46px;
+    line-height: 22px;
+    text-align: center;
+    font-size: 10px;
+}
+.service .service-body {}
+.service .service-body ul {}
+.service .service-body ul li{
+    float: left;
+    width: 320px;
+    height: 510px;
+    background: #fff;
+    border: 1px solid #e7e8e9;
+    margin-right: 44px;
+    box-shadow: 2px 2px 2px 2px #ccc;
+}
+.service .service-body ul li:nth-child(3){
+    margin-right: 0;
+}
+.service .service-body ul li img{
+    margin: 40px 27px 30px;
+    width: 258px;
+}
+.service .service-body ul li h3{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.service .service-body ul li p{
+    line-height: 20px;
+    font-size: 10px;
+    padding: 0 40px;
+    margin-top: 5px;
+}
+.service .service-body ul li a{
+    display: block;
+    width: 150px;
+    height: 36px;
+    margin: 30px auto 0;
+    color: #ff9412;
+    border: 1px solid #ff9412;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 36px;
+}
+.service .service-body ul li a:hover{
+    background: #ff9412;
+    color: #fff;
+}
+
+/*case*/
+.case {
+    width: 1055px;
+    margin: 75px auto 0;
+}
+.case .title {
+    margin: 0 25px;  /*这里title没给宽度，给了左右的margin之后，内容就向中间挤*/
+    border-top: 1px solid #ccc;
+}
+.case .title .top {
+    width: 168px;
+    height: 46px;
+    margin: -25px auto 0;
+    background-color: #fafafa;
+    /*overflow: hidden;*/
+}
+.case .title h3 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.case .title h4 {
+    text-align: center;
+    font-size: 10px;
+    font-weight: 400;
+    color: #ccc;
+}
+
+.case .case-body {
+    margin-top: 80px;
+    position: relative;
+}
+.case li {
+    width: 323px;
+    height: 211px;
+    float: left;
+    margin-right: 43px;
+    background-color: pink;
+    position: relative;
+}
+.case li:nth-child(3){
+    margin-right: 0;
+}
+.case li a {
+    display: block;
+}
+.case li a .case-image {
+    width: 323px;
+    height: 211px;
+}
+.case li a .mask {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: url(../images/mask.png) no-repeat center rgb(0,0,0,0.3);
+    top: 0;
+    display: none;
+}
+.case li a:hover .mask{
+    display: block;
+}
+.case li a p {
+    height: 45px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    line-height: 45px;
+    color: #fff;
+    font-size: 10px;
+    background: rgb(0, 0, 0, 0.3);
+}
+.case .left, .case .right {
+    display: block;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -30px;
+    background-color: #e6e6e6;
+    color: #fff;
+}
+.case .left{
+    left: -90px;
+}
+.case .right{
+    right: -90px;
+}
+.case .left:hover, .case .right:hover {
+    background-color: #57a9ef;
+}
+
+/*partner*/
+.partner {
+    width: 1055px;
+    margin: 75px auto 0;
+}
+.partner .title {
+    margin: 0 25px;  /*这里title没给宽度，给了左右的margin之后，内容就向中间挤*/
+    border-top: 1px solid #ccc;
+}
+.partner .title .top {
+    width: 168px;
+    height: 46px;
+    margin: -25px auto 0;
+    background-color: #fafafa;
+    /*overflow: hidden;*/
+}
+.partner .title h3 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.partner .title h4 {
+    text-align: center;
+    font-size: 10px;
+    font-weight: 400;
+    color: #ccc;
+}
+/*这里先看不设置宽高的时候body有多大，然后设置比这个宽高小一点点，设置overflow: hidden;就能截掉子元素多出来的右边框和下边框*/
+.partner .partner-body {
+    width: 1048px;
+    height: 240px;
+    overflow: hidden;
+    margin: 80px auto 0;
+}
+/*body设置成1048后，变小了，内容可能往下挤，所以这里设置ul大小为1060，从而可以一行装下5个li*/
+.partner ul {
+    width: 1060px;
+}
+.partner li {
+    width: 210px;
+    height: 60px;
+    padding-top: 20px;
+    text-align: center;
+    border-right: 1px dashed #ccc;
+    border-bottom: 1px dashed #ccc;
+    float: left;
+}
+.partner li a {}
+.partner li a img {}
+
+
+/*footer*/
+.footer {
+    height: 165px;
+    background-color: #212425;
+    overflow: hidden;   /*解决外边距塌陷*/
+    margin-top: 100px;
+
+}
+.subnav {
+    text-align: center;
+    margin-top: 50px;
+    color: #f0f1f1;
+    font-size: 14px;
+}
+.subnav a {
+    color: #f0f1f1;
+    text-decoration: none;
+    padding: 0 5px;
+    font-size: 14px;
+}
+.subnav a:hover {
+    color: #2288f6;
+    text-decoration: underline;
+}
+.footer p {
+    text-align: center;
+    color: #888888;
+    margin-top: 30px;
+}

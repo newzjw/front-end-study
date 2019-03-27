@@ -40,16 +40,26 @@
         text-decoration: underline;
     }
     .test {
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
         background: pink;
         position: relative;
-        left: 20px
+        left: 20px;
+        overflow: hidden;
+    }
+    .son {
+        width: 100px;
+        height: 100px;
+        background: red;
+        margin-top: 50px;
     }
     .test2 {
         width: 100px;
-        height: 100px;
+        /*height: 100px;*/
         background: blue;
+    }
+    .mm {
+        margin-left: 10px;
     }
 </style>
 <body>
@@ -62,7 +72,16 @@
             <li><a href="#">北京招聘网页设计，平面设计，php</a></li>
         </ul>
     </div>
-    <div class="test"></div>
-    <div class="test2"></div>
+    <div class="test">
+        <div class="son"></div>
+    </div>
+    <div class="test2">
+        123 <br>
+        123 <br>
+        123 <br>
+        123 <br>
+        123 <br>
+    </div>
+    <span class="mm">123</span>
 </body>
 </html>
